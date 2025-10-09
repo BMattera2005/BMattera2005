@@ -14,21 +14,21 @@ I'm a Computer Engineering student at Universidad del Salvador with a passion fo
 
 ## 🚀 Featured Projects
 
-### [Daily Personal Finances](#)
+### Daily Personal Finances
 *Jul. 2024 – Aug. 2024*  
 _TypeScript, React, Vite, Tailwind CSS, shadcn-ui_  
 - Developed a personal finance app to manage income and expenses.
 - Designed a modern, responsive UI using Tailwind CSS and shadcn-ui.
 - Built reusable React components and optimized workflow with Vite.
 
-### [Realtime Dash](#)
+### Realtime Dash
 *Jan. 2025 – Mar. 2025*  
 _TypeScript, React, Vite, Tailwind CSS, Recharts_  
 - Built a real-time dashboard visualizing cryptocurrency prices, weather, and exchange rates.
 - Integrated multiple APIs with TanStack Query.
 - Created interactive charts and responsive design.
 
-### [WhatsApp Invoice Bot](#)
+### WhatsApp Invoice Bot
 *Sep. 2025 – Oct. 2025*  
 _Node.js, Google APIs, Twilio, pdf2image_  
 - Developed a bot to extract data from invoice images/PDFs via WhatsApp.
@@ -52,7 +52,3 @@ _Node.js, Google APIs, Twilio, pdf2image_
 - GitHub: [BMattera2005](https://github.com/BMattera2005)
 
 ---
-
-<!-- Optional: Add a fun fact or quote about technology, learning, or your interests! -->
-<!-- Optional: Add more social links (LinkedIn, personal website) if you’d like! -->
-# BMattera2005-
