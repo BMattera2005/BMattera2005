@@ -1,7 +1,7 @@
 # Hi, I'm Benjamin Mattera Paramio 👋
 
 **Location:** Pilar, Buenos Aires  
-**Languages:** Spanish (Native), English (C1), German (C1)  
+**Languages:** Spanish (Native), English (C1), German (B1)  
 **Email:** benjaminmatterap@gmail.com
 
 ---
